@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ccollachea</string>
+    <string name="action_actualizar">Actualizar información</string>
+    <string name="action_enviar">Enviar registro</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Registro de asistencia</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="lorem_ipsum">
+        Hola
+    </string>
+
+
+    <!-- Nombres de los botones -->
+    <string name="textBtnScanerQr">Registro por QR\Barras</string>
+    <string name="title_activity_personas">PersonasActivity</string>
+</resources>
